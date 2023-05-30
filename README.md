@@ -3,3 +3,5 @@
 [Analysing a .NET Codebase with Roslyn](https://dev.to/mattjhosking/analysing-a-net-codebase-with-roslyn-5cn0)
 
 [Roslyn 入门：使用 Roslyn 静态分析现有项目中的代码（语法分析）](https://blog.walterlv.com/post/analysis-code-of-existed-projects-using-roslyn)
+
+[dotnet-core-roslyn-sample](https://github.com/joelmartinez/dotnet-core-roslyn-sample/blob/master/Program.cs)
