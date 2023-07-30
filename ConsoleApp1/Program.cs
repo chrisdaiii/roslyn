@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         private static void Main(string[] args)
         {
-            var filePath = "C:\\Users\\June\\Desktop\\ConsoleApp1\\ConsoleApp1\\ServiceCollectionExtensions.cs";
+            var filePath = "C:\\Users\\June\\Desktop\\RoslynDemo\\ConsoleApp1\\ServiceCollectionExtensions.cs";
 
             var content = File.ReadAllText(filePath);
 
