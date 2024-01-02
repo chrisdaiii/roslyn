@@ -47,3 +47,9 @@
 [使用Roslyn修改方法主体 | 那些遇到过的问题](https://qa.1r1g.com/sf/ask/3157185951/)
 
 [Csharp 使用 Roslyn 将班级成员添加到特定位置 - 无涯教程网](https://www.learnfk.com/question/csharp/74751968.html)
+
+[roslyn/docs/wiki/Scripting-API-Samples.md at main · dotnet/roslyn](https://github.com/dotnet/roslyn/blob/main/docs/wiki/Scripting-API-Samples.md)
+
+[Net 编译器平台--- Roslyn Scripting APIs_野生的狒狒的博客-CSDN博客](https://blog.csdn.net/Gefangenes/article/details/131742552)
+
+[Cannot use ExpandoObject as 'globals' parameter for Script.Run() · Issue #3194 · dotnet/roslyn](https://github.com/dotnet/roslyn/issues/3194)
